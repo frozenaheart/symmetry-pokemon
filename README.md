@@ -1,5 +1,22 @@
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
+This project is a pokedex app.
+
+## Tech Stack
+
+This project used React, Typescript, Chakra-ui, Context, Styled Components, Jest, React-Testing-Library
+
+## High-Level User Stories to Cover
+
+**User Story 1**: You can search a catalog of Pokemon characters (Pokedex) by their name or by some of the characters in their name in order to return one or more Pokemon and their trading card attributes.
+
+**User Story 2**: You can know how many (count) unique Pokemon are in the Pokedex, as well as unique Pokemon Types and Pokemon Species.
+
+**User Story 3**: You can filter and narrow my search criteria based on Pokemon Type and Pokemon Species.
+
+**User Story 4**: You can see pictures of the Pokemon characters with some identifying attributes (trading card information) about the creatures presented in the screen.
+
+**User Story 5**: You can sort the order of the Pokemon characters based on one or more identifying attributes about the character.
 
 ## Available Scripts
 
